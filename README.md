@@ -6,14 +6,14 @@
 
 Я инженер по тестированию. Здесь я хочу поделиться некоторыми тестовыми артефактами по веб- и мобильному тестированию, полученными во время учебы и текущих стажировок.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.panchenko.marya@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:panchenko.marya@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/ьфкнф_119" target="_blank">
+    <a href="https://t.me/marya_119" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>

@@ -66,6 +66,16 @@
   
 </div>
 
+<h2>Тестовые артефакты </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/MariyaPanchenko1/web_testing">Web testing</a>  </li>
+<li>  <a href="https://github.com/MariyaPanchenko1/api_testing"> API testing </a>   </li>
+<li> <a href="https://github.com/MariyaPanchenko1/SQL">MySQL</a>   </li>
+<li> <a href="https://github.com/MariyaPanchenko1/bash_command"> Bash </a>  </li>
+</ul>
+</p>
+
 ---
 
 <!-- ### 💻 Пройденные курсы:
